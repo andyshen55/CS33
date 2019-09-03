@@ -1,0 +1,8 @@
+b
+0 1 3 6 10 15
+1 4
+60 3
+jebgbs
+3 1 6 5 4 2
+
+#replace second line with "18 19 21 24 28 33" to access secret phase
