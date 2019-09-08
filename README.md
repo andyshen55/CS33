@@ -1,7 +1,7 @@
 # CS33: Introduction to Computer Organization
-Spring 2019 CS33, Prof. Glenn Reinman
+### Spring 2019 CS33, Prof. Glenn Reinman
 
-Grade Received: A
+#### Grade Received: A
 
 These are my solutions to the prescribed HW/Projects for CS33. The purpose of this repository is to display/backup my work. Please do not try to copy or re-use any of my code.
 
